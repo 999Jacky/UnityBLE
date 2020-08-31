@@ -4,7 +4,18 @@
 - 只支援Android
 - 開發版：adafuit clue
 - 測試手機：Asus ROG Phone 2
+---
+![1.jpg](/img/1.jpg)
+Reset：將手如人偶平放，點擊Reset校正偏移
+#### 點擊連線出現裝置列表
 
+![2.jpg](/img/2.jpg)
+#### 點擊要連線的裝置，再點要綁定的部位
+
+![3.jpg](/img/3.jpg)
+![4.jpg](/img/4.jpg)
+
+---
 
 Android專案build完成後需將**build\outputs\aar\blePlugin-debug.aar**拖進Unity專案裡
 
